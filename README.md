@@ -1,4 +1,4 @@
-# Duke MSS Portfolio: *Machine Learning Approaches to Sentiment Analysis*
+# Duke MSS Portfolio: Machine Learning Approaches to Sentiment Analysis
 
 ## Portfolio of Work:
 
