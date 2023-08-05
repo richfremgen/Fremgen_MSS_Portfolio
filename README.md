@@ -1,10 +1,10 @@
 # Duke MSS Portfolio: *Machine Learning Approaches to Sentiment Analysis*
 
-## Portfolio of Work
+## Portfolio of Work:
 
 As part of the Completion Exercise, M.S. students that present and defend a Portfolio of Work must demonstrate mastery of statistical methods, application, and computation.vPortfolio topics can come from a mentored industrial internship, industry-sponsored capstone project, an applied course, or a research project supervised by Duke faculty. The portfolio presentations are scheduled for early March from 2:00 to 4:00 pm. The date of the presentations will be announced by the beginning of the Spring semester. The presentations will be followed by a reception for all MSS graduate students (first- and second-year). 
 
-## Portfolio Contents
+## Portfolio Contents:
 
 A portfolio title and an abstract must be submitted to the student’s portfolio advisor by December 15.
 
